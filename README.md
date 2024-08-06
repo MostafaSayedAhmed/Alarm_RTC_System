@@ -27,4 +27,5 @@ project is meant to grow to bigger one by doing the following
   <li> Allow user to set time for which buzzer is on </li>
   <li> Allow user to cancel alarm or timer set  </li>
   <li> Enable intergrating this project with other project to perform smart phone like tasks </li>
+  <li> Provide PCB design to ease implementing this project in real life rather than just simulation </li>
 </ul>
